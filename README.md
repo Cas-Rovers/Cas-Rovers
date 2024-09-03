@@ -50,7 +50,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/cas-rovers/cas-rovers/output/snake.svg" alt="Snake animation" />
+<img src="snake.svg" alt="Snake animation" />
 
 ###
 
